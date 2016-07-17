@@ -1,2 +1,4 @@
 # hello-world
-Testni repozitorij
+
+print("Hello world")
+print("My name is Ziga.")
